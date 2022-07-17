@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://github.com/javierat/javierat/main/front-page.png?raw=true)
+![alt text](front-page.png)
 
 Here are some ideas to get you started:
 
