@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierat&hide=java,html,tex&title_color=800080&text_color=75E6DA&icon_color=FFD700&bg_color=1d1f21&langs_count=1" />
 
 </a>
-
+[![javierat github stats](https://github-readme-stats.vercel.app/api?username=javierat)](https://github.com/javierat/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
