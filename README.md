@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![alt text](front-page.png)
-![docker-gif](docker-container.gif)
+![Javierat GitHub stats](https://github-readme-stats.vercel.app/api?username=javierat&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
