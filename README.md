@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![alt text](front-page.png)
 <br>
 <p align=center>
