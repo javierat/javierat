@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/javierat/javierat">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Javier's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierat&theme=dark&hide_border=true"/> 
+    <img align="center" alt="Javier's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierat&theme=dark&hide_border=true"/> 
 </a>
   
 <a href="https://github.com/javierat/Coding-excercises">
