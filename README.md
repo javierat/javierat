@@ -1,7 +1,11 @@
 ### Hi there 👋
 ![alt text](front-page.png)
 ![Javierat GitHub stats](https://github-readme-stats.vercel.app/api?username=javierat&show_icons=true&theme=radical)
-Here are some ideas to get you started:
+
+<a href="https://github.com/javierat/javierat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierat&hide=java,html,tex&theme=radical" />
+</a>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
