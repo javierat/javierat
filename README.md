@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![alt text](front-page.png)
-![Javierat GitHub stats](https://github-readme-stats.vercel.app/api?username=javierat&show_icons=true&theme=radical)
 
 <a href="https://github.com/javierat/javierat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierat&hide=java,html,tex&title_color=FF4500&text_color=75E6DA&icon_color=FFD700&bg_color=1d1f21" />
