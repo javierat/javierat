@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Javier's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierat&show_icons=true&line_height=27&count_private=true&title_color=FF4500&text_color=75E6DA&icon_color=FFD700&bg_color=1d1f21" alt="Javier's GitHub Stats"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Javier's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierat&show_icons=true&line_height=27&count_private=true&title_color=FF4500&text_color=75E6DA&icon_color=FFD700&bg_color=1d1f21"/>
 </a>
   
 - 🔭 I’m currently working on ...
