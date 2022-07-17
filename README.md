@@ -15,4 +15,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Javier's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierat&theme=dark&hide_border=true"/> 
 </a>
   
-
+<a href="https://github.com/javierat/Coding-excercises">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=Coding-excercises&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21"" />
+</a>
