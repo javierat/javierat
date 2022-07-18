@@ -1,7 +1,6 @@
 
 ![alt text](front-page.png)
 
-<br>
 <p align=center>
     <div align=center>
       <a href="https://github.com/javierat/javierat">
