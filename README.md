@@ -1,6 +1,9 @@
 ## Hi, I'm Javier Alejandro! 
 
-## 📈 Github stats ![Alt Text](github.gif)
+![Alt Text](github.gif)
+
+## 📈 Github stats 
+
 <p align=center>
     <div align=center>
       <a href="https://github.com/javierat/javierat">
