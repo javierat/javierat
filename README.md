@@ -1,3 +1,4 @@
+## Hi, I'm Javier Alejandro! ![Alt Text](gif.gif)
 
 ## 📈 Github stats
 <p align=center>
