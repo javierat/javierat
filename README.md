@@ -1,4 +1,4 @@
-## Hi, I'm Javier Alejandro! 
+![Alt Text](Presentation-card.gif)
 
 ```python
 #!/usr/bin/python
