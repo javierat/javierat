@@ -18,7 +18,7 @@ class SoftwareEngineer:
         self.db = ["MongoDB", "MySQL", "Cassandra"]
 
     def say_hello(self):
-        print("Hello, thank you for visiting my profile, I hope some of my projects will be useful to you. \U0001F601")
+        print("Hello, thank you for visiting my profile, I hope some of my projects will be useful to you.")
 
 
 me = SoftwareEngineer()
