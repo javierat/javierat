@@ -1,4 +1,4 @@
-![Alt Text](Presentation-card.gif)
+# Hello, I hope you like my profile 🤗
 
 ```python
 #!/usr/bin/python
