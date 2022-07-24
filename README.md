@@ -11,13 +11,14 @@ class SoftwareEngineer:
         self.name = "Javier Alejandro Torres"
         self.role = "Software Engineer"
         self.language_spoken = ["Spanish", "English", "French", "German"]
+        self.programming_language = ["Python", "Bash", "C++", "Java"]
 
-    def say_hi(self):
+    def say_hello(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
 me = SoftwareEngineer()
-me.say_hi()
+me.say_hello()
 ```
 
 ## 📈 Github stats 
