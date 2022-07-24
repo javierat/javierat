@@ -1,7 +1,5 @@
 ## Hi, I'm Javier Alejandro! 
 
-![Alt Text](github.gif)
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
