@@ -10,11 +10,15 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Javier Alejandro Torres"
         self.role = "Software Engineer"
+        self.favorite_color= "Orange"
         self.language_spoken = ["Spanish", "English", "French", "German"]
         self.programming_language = ["Python", "Bash", "C++", "Java"]
+        self.ci_cd = ["Jenkins", "Kubernetes", "Docker", "Git"]
+        self.visualization = "ELK Stack"
+        self.db = ["MongoDB", "MySQL", "Cassandra"]
 
     def say_hello(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Hello, thank you for visiting my profile, I hope some of my projects will be useful to you. \U0001F601")
 
 
 me = SoftwareEngineer()
