@@ -14,7 +14,7 @@ class SoftwareEngineer:
         self.language_spoken = ["Spanish", "English", "French", "German"]
         self.programming_language = ["Python", "Bash", "C++", "Java"]
         self.ci_cd = ["Jenkins", "Kubernetes", "Docker", "Git"]
-        self.visualization = "ELK Stack"
+        self.visualization = "ELK Stack (Kibana, Grafana, ElasticSearch)"
         self.db = ["MongoDB", "MySQL", "Cassandra"]
 
     def say_hello(self):
