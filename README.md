@@ -47,8 +47,7 @@ me.say_hello()
 ## 📕 My open source projects 
 
 <a href="https://github.com/javierat/EarthEngine-MexicoStates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=EarthEngine-MexicoStates
-&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=EarthEngine-MexicoStates&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21"" />
 </a>
 
 <a href="https://github.com/javierat/javierat">
