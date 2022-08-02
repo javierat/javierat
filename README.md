@@ -63,7 +63,13 @@ me.say_hello()
 </a>
 
 ## 🔥 Streak Stats 🔥
-
+<p align=center>
+    <div align=center>
+    
 <a href="https://github.com/javierat/javierat">
     <img align="center" alt="Javier's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierat&theme=dark&hide_border=true"/> 
 </a>
+
+    </div>
+  <br>
+  </p>
