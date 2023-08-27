@@ -41,9 +41,9 @@ me.say_hello()
 
   
 ## 📈 Github Contribution graph
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"></a>
   [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javierat&theme=tokyo-night&custom_title=Javier%20Activity%20Graph&hide_border=true)](https://github.com/javierat/github-readme-activity-graph)
-  </a>
+  
   
 ## 📕 My open source projects 
 
