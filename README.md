@@ -30,9 +30,9 @@ me.say_hello()
 <p align=center>
     <div align=center>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierat&show_icons=true&theme=tokyonight&langs_count=8" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierat&show_icons=true&theme=tokyonight&langs_count=8" />
       </a> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierat&show_icons=true&line_height=27&count_private=true&theme=tokyonight&include_all_commits=true" alt="Javier's GitHub Stats" />
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=javierat&show_icons=true&line_height=27&count_private=true&theme=tokyonight&include_all_commits=true" alt="Javier's GitHub Stats" />
       </a>         
     </div>
   <br>
