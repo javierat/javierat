@@ -40,7 +40,7 @@ me.say_hello()
   
 ## 📈 Github Contribution graph
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Javier's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=javierat&bg_color=1d1f21&color=FFFFFF&line=FF4500&point=FFFFFF&hide_border=true" />
+  [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javierat&theme=tokio-night&custom_title=Javier%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   </a>
   
 ## 📕 My open source projects 
