@@ -37,7 +37,7 @@ me.say_hello()
     </div>
   <br>
   </p>
-  
+  <br> 
 ## 📈 Github Contribution graph
 
   [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javierat&theme=tokyo-night&custom_title=Javier%20Activity%20Graph&hide_border=true)](https://github.com/javierat/github-readme-activity-graph)
