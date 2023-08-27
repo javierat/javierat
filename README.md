@@ -46,19 +46,19 @@ me.say_hello()
 ## 📕 My open source projects 
 
 <a href="https://github.com/javierat/EarthEngine-MexicoStates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=EarthEngine-MexicoStates&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=EarthEngine-MexicoStates&theme=tokyonight"" />
 </a>
 
 <a href="https://github.com/javierat/javierat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=javierat&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=javierat&theme=tokyonight"" />
 </a>
 
 <a href="https://github.com/javierat/Container-ship">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=Container-ship&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=Container-ship&theme=tokyonight"" />
 </a>
 
 <a href="https://github.com/javierat/ArtificialVision">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=ArtificialVision&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21"" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=javierat&repo=ArtificialVision&theme=tokyonight"" />
 </a>
 
 ## 🔥 Streak Stats 🔥
@@ -66,7 +66,7 @@ me.say_hello()
 
     
 <a href="https://github.com/javierat/javierat">
-    <img align="center" alt="Javier's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierat&theme=dark&hide_border=true"/> 
+    <img align="center" alt="Javier's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=javierat&theme=tokyonight&hide_border=true"/> 
 </a>
 
    
