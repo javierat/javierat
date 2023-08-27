@@ -32,7 +32,7 @@ me.say_hello()
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierat&show_icons=true&theme=tokyonight&langs_count=8" />
       </a> 
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierat&show_icons=true&line_height=27&count_private=true&title_color=00ffd2&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21&include_all_commits=true" alt="Javier's GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierat&show_icons=true&line_height=27&count_private=true&theme=tokyonight&include_all_commits=true" alt="Javier's GitHub Stats" />
       </a>         
     </div>
   <br>
