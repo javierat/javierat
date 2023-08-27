@@ -29,10 +29,10 @@ me.say_hello()
 
 <p align=center>
     <div align=center>
-      <a href="https://github.com/javierat/javierat">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierat&show_icons=true&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21&langs_count=8" />
       </a> 
-        <a href="https://github.com/javierat/github-readme-stats"><img alt="Javier Github Stats" src="https://github-readme-stats.vercel.app/api/?username=javierat&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=javierat&show_icons=true&line_height=27&count_private=true&title_color=FF4500&text_color=ffffff&icon_color=FFD700&bg_color=1d1f21&include_all_commits=true" alt="Javier's GitHub Stats" />
       </a>         
     </div>
   <br>
